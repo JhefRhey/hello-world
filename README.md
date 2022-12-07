@@ -1,2 +1,4 @@
 # hello-world
-My First Repository 
+My First Ever Repository 
+
+jeffrey Cabigao BSHM
